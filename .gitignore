@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/design-patern.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+src/main/resources/
+src/test/
+target/
